@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -14,26 +16,55 @@ key: 8b68e20776
 ```
 
 
-`@instructions`
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: 
+
+key: fb36d5347a
+```
+
+this is an assignment
+
 
 `@hint`
+hint
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
+`@possible_answers`
+- 1
+- 2
+- 3
+- 4
+- 5
+- [6]
 
-```
+`@feedbacks`
+- no
+- no
+- no
+- no
+- no
+- yes
+- no
 
-`@sct`
-```{python}
 
-```
+
